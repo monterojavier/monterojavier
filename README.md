@@ -1,74 +1,31 @@
-<!-- Add a website link as my name -->
-<div align="center">
+### `Software Engineer`
 
-# Hi there, I'm Javier 👋🏽
+📍 New York, NY &nbsp;·&nbsp; 🛠️ Previously **Google** & **New York Life** &nbsp;·&nbsp; 🎓 Fullstack Academy
 
-## Software Engineer
+---
 
-<pre>
-<!-- Add a linked to stride's website-->
-  🎓 Graduated from Fullstack Academy in New York
+#### Languages
 
-  👨🏽‍💻 I'm currently a Software Engineer Intern at Stride Consulting!
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E38C00?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  🌱 I’m learning Ruby on Rails
+#### Frameworks
 
-</pre>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=42B883)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 
-<br />
+#### Data &amp; Tooling
 
-### Languages & Tools
-
-<img alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
-
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" >
-
-<img alt="Redux" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" >
-
-<img alt="Ruby" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" >
-
-<img alt="Rails" width="26px" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-29.jpg" >
-
-<img alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" >
-
-<img alt="Sequeilze" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/sequelize-2-1175003.png" >
-
-<img alt="Mocha" width="26px" src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" >
-<img alt="Bootstrap" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png" >
-
-<img alt="Material Ui" width="26px" src="https://material-ui.com/static/logo.png" >
-
-<img alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" >
-
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" >
-
-<img alt="SQL" width="26px" src="https://lh3.googleusercontent.com/proxy/46PLlmEOkKzEGRyTOPyTu546DKd_dHYdLRX_sLkRquJpRXrklGQIaqxAn9vogFcMUTyB-Sykn1QIq4UH3mP-DMD44a1T0Dgo566I9lRkyFOFOfL4MqxHK5EFJOcePtNx3KQ4xnta00k" >
-
-<img alt="PostgresSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" >
-
-<img alt="Nodejs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" >
-
-<img alt="Github" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" >
-<img alt="Capybara" width="26px" src="https://img.stackshare.io/service/2595/capybara.png" >
-
-<img alt="Jest" width="26px" src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" >
-
-<img alt="Vuejs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" >
-
-<img alt="Nextjs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" >
-
-<img alt="Chakra" width="26px" src="https://avatars3.githubusercontent.com/u/54212428?s=280&v=4" >
-
-<br />
-
-### Connect with me
-
-[<img align="center" alt="monterojavier | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/linkedin-512.png" />][linkedin]
-[<img align="center" alt="monterojavier | Twitter" width="22px" src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s1600/Twitter+logo+2012.png" />][twitter]
-
-</div>
-<!-- Definition -->
-<!--[website]:  -->
-
-[twitter]: https://twitter.com/javierlmontero
-[linkedin]: https://linkedin.com/in/javierlmontero
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
